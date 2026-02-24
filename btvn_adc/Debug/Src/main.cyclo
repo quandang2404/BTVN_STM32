@@ -1,0 +1,6 @@
+../Src/main.c:10:6:uart1_init	1
+../Src/main.c:23:6:uart1_write	2
+../Src/main.c:29:6:uart1_print	2
+../Src/main.c:36:6:adc_init	3
+../Src/main.c:52:10:adc_read	2
+../Src/main.c:61:5:main	4
